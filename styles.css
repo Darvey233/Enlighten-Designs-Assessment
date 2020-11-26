@@ -1,0 +1,155 @@
+.main-banner {
+    position: relative;
+}
+
+.Top_part {
+
+
+    
+}
+
+.main-banner img{
+    width: 100%;
+}
+
+.text_part1 {
+    top: 88.5px;
+    position: absolute;
+    left: 109.5px;
+}
+
+.svg {
+    position: relative;
+}
+
+.bannerwave {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+
+.text1 {
+    font-family: Quicksand, sans-serif;
+    font-size: 22.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+}
+
+.text2 {
+    font-family: Quicksand;
+    font-size: 12px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.42;
+    letter-spacing: normal;
+    color: #ffffff;
+    width: 292px;
+}
+
+.button1 {
+    width: max-content;
+    padding: 6.5px 16.5px 6px 17px;
+    border-radius: 2px;
+    background-color: #de6c17;
+    font-family: Quicksand;
+    font-size: 9px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+}
+
+.text3 {
+    font-family: Quicksand;
+    font-size: 22.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #36413c;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.text4 {
+    font-family: Quicksand;
+    font-size: 12px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.42;
+    letter-spacing: normal;
+    text-align: center;
+    color: #5e6e66;
+    width: 344.5px;
+    margin: auto;
+}
+
+.bottom-banner {
+    width: 190px;
+    height: 268px;
+    border-radius: 4px;
+    box-shadow: 0 0 2px 0.5px rgba(0, 0, 0, 0.18);
+    background-color: #ffffff;
+    margin-right: 15px;
+}
+
+.bottom-banner:last-child {
+    margin-right: 0px;
+}
+
+.bottom-banner img {
+    width: 100%;
+}
+
+.text5 {
+    font-family: Quicksand;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #36413c;
+}
+
+.text6 {
+    font-family: Quicksand;
+    font-size: 9px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.44;
+    letter-spacing: normal;
+    color: #5e6e66;
+}
+
+.text_part3 {
+    padding: 12.5px;
+    padding-top: 0px;
+}
+
+.button2 {
+    font-family: Quicksand;
+    font-size: 9px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #de6c17;
+    margin-bottom: 13.5px;
+}
+
+.image-window {
+    display: flex;
+    padding: 35px 60px 50.5px;
+}
